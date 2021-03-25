@@ -12,9 +12,11 @@ import os, json
 with open("config/secret.json") as secretData,\
 		open("config/config.json") as generalConf,\
 		open("config/rules.json") as rulesHandle,\
+		open("config/strings.json") as stringsHandle,\
 		open("config/people.json") as peopleHandle,\
 		open("config/logMessages.json") as logs:
 	secrets = json.load(secretData)
+	strings = json.load(stringsHandle)
 	rules = json.load(rulesHandle)
 	logMsg = json.load(logs)
 	people = json.load(peopleHandle)

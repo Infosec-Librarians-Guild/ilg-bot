@@ -1,0 +1,10 @@
+{
+	"success":{},
+	"errors":{
+		"commandNotFound":"The command `{}` does not exist",
+		"noDMs":"I couldn't message you! Are your DMs open?"
+	},
+	"misc":{
+		"helpDescription":"Use `{}help COMMAND` to get help for a specific command\n"
+	}
+}

@@ -1,9 +1,14 @@
 {
 	"prefix":"!",
 	"status":"",
+	"github":"Need to add this after transfer",
 	"cogs":[
 			"rules",
-			"people"
+			"people",
+			"misc"
 		],
-	"disabledCogs":[]
+	"disabledCogs":[],
+	"hiddenCommands":[
+		"help"
+	]
 }
