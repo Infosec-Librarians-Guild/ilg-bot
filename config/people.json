@@ -1,0 +1,35 @@
+{
+	"partners":[
+		{
+			"link":"https://discord.gg/tryhackme",
+			"names":[
+				"thm",
+				"tryhackme"
+			]
+		},
+		{
+			"link":"https://discord.gg/NS9UShn",
+			"names":[
+				"darksec",
+				"dark",
+				"darkstar",
+				"dorkstork",
+				"doorstop"
+			]
+		},
+		{
+			"link":"https://discord.com/invite/mA9Zzrd6Fh",
+			"names":[
+				"cyknox",
+				"umair"
+			]
+		}
+	],
+	"contributors":{
+		"MuirlandOracle":{
+			"Blog":"https://muir.land",
+			"Github":"https://github.com/muirlandoracle",
+			"Twitter":"https://twitter.com/MuirlandOracle"
+		}
+	}
+}

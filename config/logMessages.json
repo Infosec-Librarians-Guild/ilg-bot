@@ -1,0 +1,7 @@
+{
+	"start":"[Status][{}] Bot started",
+	"end":"[Status][{}] Bot Disconnected",
+	"cogSuccess":"[Cog][{}] {} Successfully loaded",
+	"cogFail":"[Cog][{}] {} Failed to load"
+
+}

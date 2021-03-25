@@ -1,0 +1,9 @@
+{
+	"prefix":"!",
+	"status":"",
+	"cogs":[
+			"rules",
+			"people"
+		],
+	"disabledCogs":[]
+}
