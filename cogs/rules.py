@@ -36,7 +36,7 @@ class Rules(commands.Cog):
 				return
 
 			try:
-				assert(ruleNum < len(ruleList) and ruleNum > 0)
+				assert(ruleNum <= len(ruleList) and ruleNum > 0)
 			except:
 				await ctx.send(f"There are {len(ruleList)} rules. Perhaps you'd like to pick one of those?")
 				return
